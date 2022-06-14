@@ -9,6 +9,5 @@ define view ZI_SVC_STUDENT as select from ztm_svc_student {
     middle_name,
     surname,
     branch,
-    sub_name,
-    marks
+    sub_name
 }
